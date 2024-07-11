@@ -1,2 +1,2 @@
 # StoreFront
-This is a test project for Django
+This is task to create a e-commerce store front app
